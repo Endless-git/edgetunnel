@@ -4,5 +4,5 @@ compatibility_date = "2025-11-04"
 keep_vars = true
 
 #[[kv_namespaces]]
-binding = "EDT2"			#KV绑定名默认不可修改
+binding = "KV"			#KV绑定名默认不可修改
 id = "d25553125db7445db070d5679f37a3f8"				#KV数据库id
